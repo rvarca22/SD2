@@ -1,5 +1,7 @@
-#BOOK BUYERS Fictional Company Website 
+#SD2
 CMPT 221 - Software Development 2 Final Project
+
+BOOK BUYERS Fictional Company Website 
 
 Designed webpages using HTML, CSS, and PHP for a fictional book retailer company, Book Buyers as a final project. These HTML files were run locally using
   a MAMP server, and eventually were run on an AWS EC2 instance so they could be accessed from anywhere. 
