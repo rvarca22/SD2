@@ -13,3 +13,12 @@ Using SQL, we created tables of the company's users, products, and suppliers; ea
   and Noble. The supplier table held information such as the supplier's name, address, phone number, etc. 
   
 MySQL was used in conjunction with PHP to display the contents of these tables on the webpages, which was made available only to users with admin access.  
+
+
+## HOW TO TEST AND LAUNCH WEBSITE (MAMP/MAMP PRO)
+
+The first thing you'll want to do is to download MAMP/MAMP Pro. The link for this is [here](https://www.mamp.info/en/downloads/).
+MAMP allows you to host a local server on your device, and allows other devices on the your network to view your webpage by simply using your IP address.
+
+### SETTING UP MAMP
+Once you have installed MAMP/MAMP PRO, open the application (The one with the grey icon, the pro version will prompt you to purchase a license) and hover over the tab that says "MAMP". 
