@@ -22,3 +22,4 @@ MAMP allows you to host a local server on your device, and allows other devices 
 
 ### SETTING UP MAMP
 Once you have installed MAMP/MAMP PRO, open the application (The one with the grey icon, the pro version will prompt you to purchase a license) and hover over the tab that says "MAMP". 
+![Alt text](/mampstep1.jpg "")
