@@ -22,4 +22,13 @@ MAMP allows you to host a local server on your device, and allows other devices 
 
 ### SETTING UP MAMP
 Once you have installed MAMP/MAMP PRO, open the application (The one with the grey icon, the pro version will prompt you to purchase a license) and hover over the tab that says "MAMP". 
-![Alt text](/mampstep1.jpg "")
+
+![Alt text](/mampstep1.png "")
+
+Then, click on preferences.
+
+![Alt text](/mampstep2.png "")
+
+Navigate over to Web Server and make sure that the document root is set to the file path where you cloned this repo
+
+![Alt text](/mampstep3.png "")
