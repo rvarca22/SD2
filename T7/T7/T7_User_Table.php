@@ -76,6 +76,8 @@
         }
     }
 
+    echo "<br>";
+
     $q = "SELECT COUNT(*) FROM team7_users WHERE record_active = 'Y' ";
     $r = mysqli_query($dbc, $q);
     
