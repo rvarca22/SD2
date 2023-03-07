@@ -14,6 +14,11 @@ Using SQL, we created tables of the company's users, products, and suppliers; ea
   
 MySQL was used in conjunction with PHP to display the contents of these tables on the webpages, which was made available only to users with admin access.  
 
+## Using the Book Buyers Site 
+ Admin Login Information:
+  username: ryanv
+  password: ryanv1
+
 
 ## HOW TO TEST AND LAUNCH WEBSITE (MAMP/MAMP PRO)
 
