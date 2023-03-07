@@ -16,7 +16,7 @@ MySQL was used in conjunction with PHP to display the contents of these tables o
 
 ## Using the Book Buyers Site 
  Admin Login Information:
-  username: ryanv
+  username: ryanv  
   password: ryanv1
 
 
