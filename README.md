@@ -12,7 +12,7 @@ Using SQL, we created tables of the company's users, products, and suppliers; ea
   held information about the various suppliers the company buys its products from. In the case of book buyers, the suppliers were companies like Amazon, and Barnes 
   and Noble. The supplier table held information such as the supplier's name, address, phone number, etc. 
   
-MySQL was used in conjunction with PHP to display the contents of these tables on the webpages, which was made available only to users with admin access.  
+MySQL was used in conjunction with PHP to display the contents of these tables on the webpages. Suppliers and Producer tables can be accessed by any users of the site, while the table of users and explanation of each table was made available only to users with admin access.  
 
 ## Using the Book Buyers Site 
  Admin Login Information:  
