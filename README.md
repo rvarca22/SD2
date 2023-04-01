@@ -118,7 +118,7 @@ Here, click "Finish".
 
 From here it should launch two different windows, you can close out of them both, as we are mainly going to be using the CLI. Press the Windows button and type "command line client" and launch the MySQL 8.0 Command Line Client. Enter the local password that you created. If done successfully, you should see a screen like this:
 
-![Alt text](/mysqlss13.png "")
+![Alt text](/mysqlss14.png "")
 
 Congratulations! You have successfully set up MySQL. I know that was quite a bit so take a breath.
 
