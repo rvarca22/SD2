@@ -60,27 +60,27 @@ Since all three of us were on Windows, and since I do not own a Mac or Linux mac
 
 Launch the installer, you will be greeted with this page. Keep the default option and click next.
 
-![Alt text](/mysqlss1.png "")
+![Alt text](/mysqlss1.PNG "")
 
 You may be shown this page next, if you are make sure the circle is unchecked and click next. 
 
-![Alt text](/mysqlss2.png "")
+![Alt text](/mysqlss2.PNG "")
 
 Then, click yes to this pop up.
 
-![Alt text](/mysqlss3.png "")
+![Alt text](/mysqlss3.PNG "")
 
 Click execute here. You should see percentage status indicators under the "Progress" tab for each item as they download. Once done, click next.
 
-![Alt text](/mysqlss4.png "")
+![Alt text](/mysqlss4.PNG "")
 
 After clicking next when the downloads have completed, this page will show up. Click execute once more. This will install them. 
 
-![Alt text](/mysqlss5.png "")
+![Alt text](/mysqlss5.PNG "")
 
 Once the installation is complete, click next. On the "Product Configuration" page, click next again. You will see the "Type and Networking" page, keep the defaults and click next, the same goes for the following "Athentication Method" page, keep defaults and click next. 
 
-![Alt text](/mysqlss6.png "")
+![Alt text](/mysqlss6.PNG "")
 
 On this page, create a strong, yet memorable password. This will be used to log you in to the CLI when you want to interface with MySQL. Once you have typed and retyped your desired password, click on "Add User".
 
@@ -88,7 +88,7 @@ On this page, create a strong, yet memorable password. This will be used to log 
 
 Here, create a user name and MySQL password. Then click "OK". Then  click "Next". 
 
-![Alt text](/mysqlss8.png "")
+![Alt text](/mysqlss8.PNG "")
 
 In the "Windows Service" page, keep the defaults and click next.
 
@@ -110,7 +110,7 @@ On this page, enter in the username and password that you created a few steps pr
 
 At this point, you should be here. Click "Finish".
 
-![Alt text](/mysqlss12.png "")
+![Alt text](/mysqlss12.PNG "")
 
 Here, click "Finish".
 
