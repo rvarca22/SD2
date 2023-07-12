@@ -122,5 +122,8 @@ From here it should launch two different windows, you can close out of them both
 
 Congratulations! You have successfully set up MySQL. I know that was quite a bit so take a breath.
 
+## CONNECTING TO WEBSITE
+
+On your browser type in the link localhost/T7/T7/Team7.php (http://localhost/T7/T7/Team7.php) in order to reach the homepage of the website. From there you can navigate through the different pages and regions of our website using the menu on the top of the screen!
 
 
